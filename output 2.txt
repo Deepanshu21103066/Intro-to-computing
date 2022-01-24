@@ -1,0 +1,31 @@
+Enter a statementPython is a case sensitive language
+Python is a case sensitive language
+The length of the String is 35
+egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object orientated language
+10
+Pythonisacasesensitivelanguage
+
+Hey, Deepanshu Choudhary Here!
+My SID is 21103066
+I am from CSE department and my cgpa is 9
+
+8
+58
+50
+224 40
+14 0
+
+Enter 1St number10
+Enter 2nd number20
+Enter 3rd number30
+30 is the greatest number
+
+Enter a sentence :n a m e 
+no
+
+Enter the length of 1st side5
+Enter the length of 2nd side5
+Enter the length of 3rd side5
+Yes
